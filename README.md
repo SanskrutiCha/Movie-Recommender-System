@@ -29,4 +29,4 @@ A personalized movie recommender system built using **Streamlit**, **SVD (Collab
 ### 🔹 Title-Based Recommendations  
 ![image alt](https://github.com/SanskrutiCha/Movie-Recommender-System/blob/aa823278037864c67321f60f21352d00c8ce4c72/Demo3.png)
 ![image alt](https://github.com/SanskrutiCha/Movie-Recommender-System/blob/aa823278037864c67321f60f21352d00c8ce4c72/Demo4.png)
-![Title Recommendations](assets/DemoPic3.png)
+
