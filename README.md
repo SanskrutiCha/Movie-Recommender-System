@@ -13,7 +13,7 @@ A personalized movie recommender system built using **Streamlit**, **SVD (Collab
 - ✨ Clean and stylish UI with custom CSS 
 
 ## 🖥️ Demo Video
-![video alt](https://github.com/SanskrutiCha/Movie-Recommender-System/blob/8626614166a3546dd98e79401880aa919181e69c/Demo.mp4)
+https://github.com/SanskrutiCha/Movie-Recommender-System/blob/8626614166a3546dd98e79401880aa919181e69c/Demo.mp4
 
 
 ---
