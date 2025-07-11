@@ -11,3 +11,20 @@ A personalized movie recommender system built using **Streamlit**, **SVD (Collab
 - 🖼️ **Movie Posters** fetched dynamically from TMDb
 - 🌐 Deployed with an interactive **Streamlit** web interface
 - ✨ Clean and stylish UI with custom CSS
+
+## 🖥️ Demo Video
+
+<video src="assets/Demo.mp4" width="700" controls></video>
+
+---
+
+## 🖼️ Screenshots
+
+### 🔹 Home Page  
+![Home Page](assets/DemoPic1.png)
+
+### 🔹 User-Based Recommendations  
+![User Recommendations](assets/DemoPic2.png)
+
+### 🔹 Title-Based Recommendations  
+![Title Recommendations](assets/DemoPic3.png)
