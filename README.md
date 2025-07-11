@@ -14,7 +14,7 @@ A personalized movie recommender system built using **Streamlit**, **SVD (Collab
 
 ## 🖥️ Demo Video
 
-<video src="assets/Demo.mp4" width="700" controls></video>
+
 
 ---
 
