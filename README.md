@@ -20,8 +20,8 @@ A personalized movie recommender system built using **Streamlit**, **SVD (Collab
 
 ## 🖼️ Screenshots
 
-### 🔹 Home Page  
-![Home Page](assets/DemoPic1.png)
+![image alt](https://github.com/SanskrutiCha/Movie-Recommender-System/blob/7cff15025554961b459eae5a30b12059da853881/Demo1.png)
+
 
 ### 🔹 User-Based Recommendations  
 ![User Recommendations](assets/DemoPic2.png)
